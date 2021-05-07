@@ -1,0 +1,16 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "first todo app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ricoloco",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0",
+    "express": "^4.17.1"
+  }
+}
